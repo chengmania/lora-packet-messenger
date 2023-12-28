@@ -33,8 +33,8 @@
  * PSRAM:            "OPI PSRAM"
  ******************************************************************************/
 
-#define USERNAME "KC3TYG"
-// #define USERNAME "Carol"
+#define USERNAME "KC3SMW"
+
 #define KEY_SCAN_MS_INTERVAL 200
 
 #include <lvgl.h>
